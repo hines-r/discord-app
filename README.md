@@ -10,5 +10,5 @@ Change .env file with desired image and container name for the bot.
 
 Run with Docker using:
 
-> docker build -t \<image name>\
+> docker build -t \<image name> .\
 > docker compose up -d
